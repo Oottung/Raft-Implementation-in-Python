@@ -130,8 +130,3 @@ The client interacts with the server in REST fashion, with an HTTP request to th
   - random
   - requests
 
-# Developed by
-*First name alphabetically ordered
-
-**Nicola Manzini (nmanzini@uchicago.edu)  
-Peng Ding (dingpeng@uchicago.edu)**
